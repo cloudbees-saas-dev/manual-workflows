@@ -8,7 +8,7 @@ on:
         type: string
         default: defaultValueStringParam
         required: true
-      choiceParam:
+      choiceParam:  
         type: choice
         options:
           - opt1default
